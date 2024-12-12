@@ -27,10 +27,11 @@ Gestionar amb Git, utilitzar branques i publicar un projecte.
    - `index.html`
    - `testunitari.html`
    - `style.css`  
-   - `main.js`  
+   - `main.js`
+   ![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-38-46.png)
 
 2. Afegeix contingut bàsic a cada fitxer.
-
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-38-46.png)
 ---
 
 #### **3. Gestió amb Git**
