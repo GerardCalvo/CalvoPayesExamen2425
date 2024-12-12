@@ -84,3 +84,5 @@ El missatge del commit ha de ser "3 - README.md amb documentació inicial"
 ![Captura de pantalla de 2024-12-12 08-54-51](https://github.com/user-attachments/assets/8432936b-1e88-40a2-859e-1714b5ca3ce8)
 
 3. **Publica el projecte a Vercel i indica l'enllaç en el document Markdown del examen.**
+   Enllaç de Vercel ->  https://calvo-payes-examen2425.vercel.app/
+
