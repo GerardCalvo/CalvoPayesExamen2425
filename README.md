@@ -1,35 +1,24 @@
 ### **Examen - RA6: Creació i Gestió d'un Projecte Web amb Git i Desplegament en Vercel**
 
-#### **Durada máxima**: 1 hora i 30 minuts
-
 ---
-
 ### **Objectiu**  
 Crear un projecte web amb documents HTML, CSS i JavaScript. 
 Gestionar amb Git, utilitzar branques i publicar un projecte.
 
----
-
-### **Documentació**  
-Has de crear un document en format **Markdown** amb les imatges i l'explicació necessària que es demana a l'examen.  
-
-En acabar l'últim pas de l'examen, hauràs de penjar aquest document a la branca de **documentació**, incloent-hi les fotografies corresponents.
-
----
-
-### **Instruccions**
 
 #### **1. Configuració inicial**
 
 1. Comprova la versió instal·lada de Git, fes captura del terminal.
-
-2. Configura Git al teu sistema (opcional)
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-39-34.png)
 
 3. Mostra la configuració actual per verificar-ho, fes captura del terminal. Explica com veig que he configurat correctament el email i el nom.
-
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-32-09.png)
 5. Inicia un nou repositori Git al directori de treball on consideris. El nom del directorio ha de ser `Cognom1Cognom2Examen2425`.
-
+-- No he fet captura al iniciar el repositori git. Pero ho he fet.
 6. Crea un document README.md, afegeix el document i fes un primer commit que amb el missatge `1 - Git init`
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-32-18.png)
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-32-27.png)
+![captura del exercici](CapturesExamen/Captura de pantalla de 2024-12-12 08-32-37.png)
 ---
 
 #### **2. Creació del projecte web**
